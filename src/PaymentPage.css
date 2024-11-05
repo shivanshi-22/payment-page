@@ -1,0 +1,158 @@
+.payment-container {
+    font-family: Arial, sans-serif;
+    background-color: #FF4A00;
+    padding: 20px;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+ 
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px;
+    background: linear-gradient(to bottom, #ffffff, #f2f2f2);
+    border-bottom: 5px solid #FF4A00;
+    margin-top: -20px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  
+  .logo-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .logo-section span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .navbar a {
+    color: #333;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .navbar a:hover {
+    color: #FF4A00;
+  }
+  
+  .search-icon {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .breadcrumb {
+    color: white;
+    font-size: 14px;
+    margin: 10px 0;
+    width: 100%;
+    text-align: left;
+  }
+  
+  .main-content {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  /* Player info styling */
+  .player-info {
+    width: 40%;
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+  }
+  
+  .player-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .player-details {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  .transaction-info {
+    width: 60%;
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .transaction-info h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .transaction-info p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .payment-options {
+    display: flex;
+    gap: 10px;
+    margin: 15px 0;
+  }
+  
+  .payment-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .google-pay {
+    background-color: #4285F4;
+    color: white;
+  }
+  
+  .apple-pay {
+    background-color: #000;
+    color: white;
+  }
+  
+  .paypal {
+    background-color: #003087;
+    color: white;
+  }
+  
+  .card-details {
+    margin-top: 20px;
+  }
+  
+  .card-details label {
+    display: block;
+    font-size: 14px;
+    margin: 10px 0 5px;
+  }
+  
+  .card-details input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
