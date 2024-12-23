@@ -10,5 +10,4 @@ Interactive Interface: Enhances user experience with clean layouts and intuitive
 
 ![image](https://github.com/user-attachments/assets/e3a9ba38-d6e1-4861-b011-3d0cbc50f452)
 
-![image](https://github.com/user-attachments/assets/ef4129e9-457e-4826-9326-21c2a2eb2f46)
 
